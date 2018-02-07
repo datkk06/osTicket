@@ -81,7 +81,7 @@
     systemctl stop firewalld
     ```
 
-- Truy cập vào đường dẫn http://192.168.30.121/helpdesk để điền các thông số về DB .
+- Truy cập vào đường dẫn http://192.168.30.122/helpdesk để điền các thông số về DB .
 
 -  Hết - good luck for you.
 

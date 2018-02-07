@@ -7,7 +7,7 @@ tin về các đầu mục hỗ trợ cần được đăng nhập dưới quy�
 
 - Đăng nhập osTicket với quyền admin sau đó chọn `Admin Panel ` :
 
-![admin-panel](/images/admmin-panel.png)
+![admin-panel](/images/admin-panel.png)
 
 - Chọn mục `Manage` :
 
@@ -34,7 +34,7 @@ trong team này có thể có một hoặc nhiều user dành cho nhiều ngư�
 
 - Chọn `Admin Panel` :
 
-![admin-panel](/images/admmin-panel.png)
+![admin-panel](/images/admin-panel.png)
 
 - Sau đó chọn phần `Agents` rồi chọn `Teams` :
 
@@ -54,7 +54,7 @@ trong team này có thể có một hoặc nhiều user dành cho nhiều ngư�
 
 - Chọn `Admin Panel` :
 
-![admin-panel](/images/admmin-panel.png)
+![admin-panel](/images/admin-panel.png)
 
 - Chọn `Agents` sau đó chọn `Departments` :
 
@@ -73,7 +73,7 @@ trong team này có thể có một hoặc nhiều user dành cho nhiều ngư�
 
 - Chọn `Admin Panel` :
 
-![admin-panel](/images/admmin-panel.png)
+![admin-panel](/images/admin-panel.png)
 
 - Sau đó chọn `Agents` rồi chọn `Add new agent` :
 
